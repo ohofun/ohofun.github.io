@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/04/18/hello-world/"/>
-      <url>/2022/04/18/hello-world/</url>
+      <title>This is my first post</title>
+      <link href="/2022/04/21/This-is-my-first-post/"/>
+      <url>/2022/04/21/This-is-my-first-post/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>不知所言，就讲一下自己为什么要开这个博客网站吧。</p><h3 id="曾经博客的尸体"><a href="#曾经博客的尸体" class="headerlink" title="曾经博客的尸体"></a>曾经博客的尸体</h3><p>之前也做过很多博客，包括WordPress、自己搭建的博客系统、github pages等等，最终都停止维护了。从工作开始每天都在忙，也懒，就不写了。</p><p>说实话，我不是一个能够持之以恒的人，就是一个普普通通的代码农民工，能坚持下写实属困难。再者说，博客这种带着小资气味的称呼本就不太符合我的阶级，我这充其量是个笔记本+日记本。真博客应该像一众文艺青年一样游山玩水，背着脑袋大的相机一顿咔咔。</p><h3 id="单纯的目的"><a href="#单纯的目的" class="headerlink" title="单纯的目的"></a>单纯的目的</h3><p>做这个博客的目的就很简单，骂人！心情好了记录一下自己的学习心得（大概会开两个系列——JAVA和马克思主义），心情不好就当个生死簿，把反动势力、资本家、资本主义的走狗挂在博客上面，让大家每天都能看到魔怔人。</p><h3 id="等一个盘古开天地"><a href="#等一个盘古开天地" class="headerlink" title="等一个盘古开天地"></a>等一个盘古开天地</h3><p>目前整个人是处于一个比较迷茫的状态，迷茫啥呢？不知道人生有什么目标。说大目标吧，目前的目标就是复兴中华民族，实现共产主义。这个太大了，自己一个人实现不了，这辈子能不能等到这一天还另说。每天上班努力工作，下班努力生活，这种混混沌沌的状态，怎么去推动这个理想实现，还真不知道。所以现在就想等个盘古给我一斧子，把这混混沌沌的脑瓜子，劈出个天地。</p><h3 id="讲个令人生气的事"><a href="#讲个令人生气的事" class="headerlink" title="讲个令人生气的事"></a>讲个令人生气的事</h3><p>西方国家一向讲究言论自由，我就想了一想，为什么要言论自由？因为喊闭嘴的全是被骂的人呗！你说你长个嘴不知道矜持，辱骂、抹黑、造谣样样精通，我讲一句我不听就侵犯你言论自由权了？天天跟八婆(无侵犯女性的意思)一样抹黑我党、抹黑共产主义，媒体由你们把控，社交由你们封锁，我党不得不关起门谈自家事，你说我党言论不自由。</p><p><strong>劝你们省一省经费，如何抹黑共产主义都是无效的，历史是由人民创造的，共产主义必将是世界人民的选择。</strong></p>]]></content>
       
       
+      <categories>
+          
+          <category> 生活随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常 </tag>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
       
     </entry>
     
